@@ -11,5 +11,6 @@ Function Monkey helps you write simpler and more elegant Azure Functions without
 
 {{< youtube ZmSBwhJRw7o >}}
 
+If you're looking for the C# version you can find it [here](https://functionmonkey.azurefromthetrenches.com).
 
 

@@ -18,7 +18,7 @@
 	"title": "Function Monkey for F#",
 	"tags": [],
 	"description": "",
-	"content": "Function Monkey for F# Write more elegant Azure Functions Function Monkey helps you write simpler and more elegant Azure Functions without all the boilerplate and attributes and has dedicated first class support for both F# and C# and a bunch of stuff to help make writing serverless REST APIs easy.\n  "
+	"content": "Function Monkey for F# Write more elegant Azure Functions Function Monkey helps you write simpler and more elegant Azure Functions without all the boilerplate and attributes and has dedicated first class support for both F# and C# and a bunch of stuff to help make writing serverless REST APIs easy.\n  If you're looking for the C# version you can find it here.\n"
 },
 {
 	"uri": "http://example.org/categories/",
